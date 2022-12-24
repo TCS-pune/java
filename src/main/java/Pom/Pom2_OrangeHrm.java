@@ -12,7 +12,6 @@ public class Pom2_OrangeHrm {
 	
 	public Pom2_OrangeHrm(WebDriver driver) {
 		PageFactory.initElements(driver, this);
-		abfnvm
 	}
 	
 	public void verifytext(String Text) {
